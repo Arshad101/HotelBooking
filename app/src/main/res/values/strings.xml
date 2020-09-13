@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hotel_Booking</string>
+    <string-array name="numbers">
+        <item>Single</item>
+        <item>Standard</item>
+        <item>Luxury</item>
+        <item>Deluxe</item>
+    </string-array>
+</resources>
